@@ -1,14 +1,15 @@
+
 # 👋 Hey, I'm Bhuvanesh K!
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=AI+%26+DS+Student;Aspiring+Data+Scientist;Python+%7C+C+%7C+SQL;Karate+Player+%7C+Coach;Learning+%7C+Building+%7C+Growing](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=24\&pause=1000\&color=00BFFF\&center=true\&vCenter=true\&width=650\&lines=AI+%26+DS+Student;Aspiring+Data+Scientist;Python+%7C+C+%7C+SQL;Karate+Player+%7C+Coach;Learning+%7C+Building+%7C+Growing)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=AI+%26+DS+Student;Aspiring+Data+Scientist;Python+%7C+C+%7C+SQL;Karate+Player+%7C+Coach;Learning+%7C+Building+%7C+Growing" alt="Typing SVG" />
 
 ### 🎓 3rd Year AI & DS Student | Aspiring Data Scientist
 
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
 
-
-\</div>
+</div>
 
 ---
 
@@ -26,11 +27,11 @@
 
 ## 🛠️ Languages & Technologies
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode&theme=dark](https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode\&theme=dark)" />
+<img src="https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode&theme=dark" />
 
-\</div>
+</div>
 
 ### 📚 Currently Exploring
 
@@ -44,15 +45,15 @@
 
 ## 📊 GitHub Statistics
 
-\<div align="center">
+<div align="center">
 
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
-\<img width="70%" src="[https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)" />
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 
-\</div>
+</div>
 
 ---
 
@@ -69,29 +70,29 @@
 
 ## 🥋 Beyond Technology
 
-**Karate Player | Karate Coach**
+### Karate Player | Karate Coach
 
-- Practicing and teaching martial arts.
-- Developing discipline, confidence and leadership.
-- Training students and encouraging sportsmanship.
-- Continuously improving my karate skills.
+- 🥋 Practicing and teaching martial arts.
+- 💪 Developing discipline, confidence and leadership.
+- 🏆 Training students and encouraging sportsmanship.
+- 🎯 Continuously improving my karate skills.
 
 ---
 
 ## 🤝 Connect With Me
 
-\<div align="center">
+<div align="center">
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
-
-\</div>
+</div>
 
 ---
 
-\<div align="center">
+<div align="center">
 
 ### 💡 "Discipline in Martial Arts. Innovation in Technology."
 
 ⭐ Thanks for visiting my profile!
 
-\</div>
+</div>
